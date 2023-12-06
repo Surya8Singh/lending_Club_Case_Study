@@ -1,52 +1,39 @@
 # Project Name
-> Outline a brief description of your project.
+Lending Club Case Study by UpGrad(IIITB)
 
 
 ## Table of Contents
-* [General Info](#general-information)
-* [Technologies Used](#technologies-used)
-* [Conclusions](#conclusions)
-* [Acknowledgements](#acknowledgements)
-
-<!-- You can include any other section that is pertinent to your problem -->
+* Abstract
+* Analysis
+    * Univariate
+    * Segmented Univariate
+    * Bivariate
+    
+* Observations
+* Conclusion
 
 ## General Information
-- Provide general information about your project here.
-- What is the background of your project?
-- What is the business probem that your project is trying to solve?
-- What is the dataset that is being used?
+This Case study focuses mailny upon the skills acquired for exploratory data analysis to find patterns & parameters responsible for identifying if a customer with default on the borrowed laon.
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+The presentation & the notebook lay out a step by step approach along with derived observation along with conclusions to achieve the above mentioned business objective.
 
 ## Conclusions
-- Conclusion 1 from the analysis
-- Conclusion 2 from the analysis
-- Conclusion 3 from the analysis
-- Conclusion 4 from the analysis
+Loan status:
+• Approximately 14% of loans were charged off. 
+• The number of loan applications has been increasing over the time. 
 
-<!-- You don't have to answer all the questions - just the ones relevant to your project. -->
+Factors to be noted:
+• Loan term impacts default rates, with longer-term loans having higher default rates. • Higher income ranges are associated with lower default risk.
+• Loan purpose, grade, interest rate and employment history significantly affect default risk.
 
 
 ## Technologies Used
-- library - version 1.0
-- library - version 2.0
-- library - version 3.0
-
-<!-- As the libraries versions keep on changing, it is recommended to mention the version of library used in this project -->
-
-## Acknowledgements
-Give credit here.
-- This project was inspired by...
-- References if any...
-- This project was based on [this tutorial](https://www.example.com).
-
-
-## Contact
-Created by [@githubusername] - feel free to contact me!
-
-
-<!-- Optional -->
-<!-- ## License -->
-<!-- This project is open source and available under the [... License](). -->
-
-<!-- You don't have to include all sections - just the one's relevant to your project -->
+Python Libraries:
+    1. Pandas
+    2. Numpy
+    3. Matplotlib
+    4. Seaborn
+    
+## Contributors
+    1. Surya Pratap Singh
+    2. Ushasri Vepuri
